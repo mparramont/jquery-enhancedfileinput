@@ -11,7 +11,7 @@ describe("enhanced_file_input", function() {
 
   });
 
-  describe ('enhanced_file_input_for', function(){
+  describe ('enhanceFileInput', function(){
     beforeEach(function() {
       setFixtures('<input id="example_input"></div>');
     });
