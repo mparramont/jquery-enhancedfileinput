@@ -5,10 +5,10 @@ On your html:
 
     <input type="file" class='file_input' id='example_input'>
 
-On your js (using default values):
+On your js:
 
     options {
-      'initial_value' : '',
+      'initial_value' : 'initial_file.jpg',
       'condition'     : function(initial_value){return true;},
       'html'          : "<img src='img/select.png'>"
     };
@@ -27,6 +27,6 @@ Will create the following:
 
 And look like this:
 
-![My image](mparramont.github.com/repository/img/demo.png)
+![demo image](http://mparramont.github.com/enhanced_file_input/img/demo.png)
 
 Inspired by [quirksmode.org/dom/inputfile.html](http://quirksmode.org/dom/inputfile.html)
