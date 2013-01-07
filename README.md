@@ -1,11 +1,13 @@
 jQuery plugin to enhance the HTML file input.
 Use it to add styling, a custom button, or initial values to your file inputs.
 
-On your html:
+In your html:
 
+    <script type="text/javascript" src="src/jquery-enhancedfileinput.js"></script>
+    ...
     <input type="file" class='file_input' id='example_input'>
 
-On your js:
+In your js:
 
     options {
       'initial_value' : 'initial_file.jpg',
@@ -13,7 +15,7 @@ On your js:
       'html'          : "<img src='img/select.png'>"
     };
 
-    $('.file_input).enhanceFileInput(options)
+    $('.file_input').enhanceFileInput(options);
 
 Will create the following:
 
@@ -27,6 +29,6 @@ Will create the following:
 
 And look like this:
 
-![demo image](http://mparramont.github.com/enhanced_file_input/img/demo.png)
+![demo image](http://mparramont.github.com/jquery-enhancedfileinput/img/demo.png)
 
 Inspired by [quirksmode.org/dom/inputfile.html](http://quirksmode.org/dom/inputfile.html)
