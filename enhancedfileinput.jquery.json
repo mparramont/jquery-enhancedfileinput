@@ -29,7 +29,7 @@
     "bugs": "https://github.com/mparramont/jquery-enhancedfileinput/issues",
     "homepage": "https://github.com/mparramont/jquery-enhancedfileinput",
     "docs": "https://github.com/mparramont/jquery-enhancedfileinput",
-    "download": "https://github.com/mparramont/jquery-enhancedfileinput",
+    "download": "https://github.com/mparramont/jquery-enhancedfileinput/archive/1.0.0.zip",
     "dependencies": {
         "jquery": ">=1.5"
     }
