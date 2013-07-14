@@ -1,10 +1,11 @@
 {
     "name": "enhancedfileinput",
-    "title": "jQuery Enhaced File Input",
+    "title": "jQuery Enhanced File Input",
     "description": "A better HTML input for files, allowing custom styling and initial values.",
     "keywords": [
         "file",
         "upload",
+        "enhanced",
         "custom",
         "input"
     ],
