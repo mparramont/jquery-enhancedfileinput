@@ -1,0 +1,36 @@
+{
+    "name": "enhancedfileinput",
+    "title": "jQuery Enhaced File Input",
+    "description": "A better HTML input for files, allowing custom styling and initial values.",
+    "keywords": [
+        "file",
+        "upload",
+        "custom",
+        "input"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "Miguel Parramon",
+        "url": "http://about.me/mparramon"
+    },
+    "maintainers": [
+        {
+            "name": "Miguel Parramon",
+            "email": "mparramont@gmail.com",
+            "url": "http://about.me/mparramon"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "bugs": "https://github.com/mparramont/jquery-enhancedfileinput/issues",
+    "homepage": "https://github.com/mparramont/jquery-enhancedfileinput",
+    "docs": "https://github.com/mparramont/jquery-enhancedfileinput",
+    "download": "https://github.com/mparramont/jquery-enhancedfileinput",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
