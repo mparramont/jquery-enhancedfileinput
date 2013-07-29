@@ -1,7 +1,7 @@
 jQuery plugin to enhance the HTML file input.
 Use it to add styling, a custom button, or initial values to your file inputs.
 
-[Demo](http://mparramont.github.io/jquery-enhancedfileinput/demo.html)
+[Demo.](http://mparramont.github.io/jquery-enhancedfileinput/demo.html)
 
 In your html:
 
